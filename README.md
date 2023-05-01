@@ -157,8 +157,8 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang) 
 Theophilus Ayano - [Github](https://github.com/ehoneahobed) / [Twitter](https://kenkszii.com/twitter)
-Selamawit Asfaw- [Github](https://github.com/Selamawit-Kassaye) / [gmail](selamkassaye2019@gmail.com)
-Selamawit Asfaw- [Github](https://github.com/Emmanuelaji) / [gmail](emmanuelaji32@gmail.com)
+Selamawit Asfaw - [Github](https://github.com/Selamawit-Kassaye) / [gmail](selamkassaye2019@gmail.com)
+Emmanuel Aji Agbo - [Github](https://github.com/Emmanuelaji) / [gmail](emmanuelaji32@gmail.com)
 
 =======
 
